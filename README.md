@@ -84,3 +84,8 @@ export default defineConfig([
 - Version: v1.0.7
 - PR Title: Manual push to main
 - Chuck Norris Joke: A mere slap in your face from Chuck Norris causes permanent, life long strabismus.
+
+## Latest Release Info
+- **Version:** v1.0.1
+- **PR Title:** Fix header formatting in README.md
+- **Chuck Norris Joke:** Robert Pattinson must report to Chuck Norris' mansion every Thursday to eat a whole clove of garlic in front of him.
