@@ -1,6 +1,10 @@
 # React + TypeScript  Vite
 
-
+### CI/CD Implementation
+У цьому проєкті налаштовано три workflow:
+1. **CI**: перевірка коду (lint), запуск тестів та тестова збірка (build).
+2. **Release**: автоматичне створення GitHub Release та тегу при злитті PR у main. Використовує Chuck Norris API для отримання випадкового жарту.
+3. **Deploy**: автоматична публікація застосунку на GitHub Pages після успішної збірки.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
